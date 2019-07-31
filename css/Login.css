@@ -5,13 +5,14 @@ html{
 .nav {
     background: #F1750E;
     display: flex;
-    border: 1px solid;
-    margin: 5px;
+    border: 5px white solid;
+    margin: 2px;
+    border-radius: 6px
 }
 /* __________________________________________________________*/
 
 .bar {
-    background: transparent;
+    background: grey;
 }
 
 .bar ul{
@@ -75,6 +76,11 @@ body {
     color: #fff;
     margin: 0%;
 }
+
+.body {
+    
+
+} 
 
 .body a{
     color: #fff;
