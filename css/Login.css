@@ -15,6 +15,7 @@ html{
     background: grey;
     border: 2px black solid;
     border-radius: 2px;
+    text-shadow: 3px 3px 10px black;    
 }
 
 .bar ul{
@@ -31,7 +32,7 @@ html{
 }
 
 .bar ul li a{
-    color: #fff;
+    color: white;
     text-decoration: none;
     width: 100%;
     padding: 10px;
@@ -49,6 +50,7 @@ html{
     float: right;
     text-align: right;
     border: 2px black solid;
+    border-radius: 2px;
 }
 
 .bar1 ul{
